@@ -115,7 +115,7 @@ color: chocolate;
     border-color: white;
 }
 #imgjss1{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js1.png");
+    background-image: url("../res/js1.png");
     height: 250px;
     width: 250px;
 }
@@ -125,7 +125,7 @@ color: chocolate;
     color: white;
 }
 #imgjss2{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js2.png");
+    background-image: url("../res/js2.png");
     height: 250px;
     width: 250px;
 }
@@ -135,7 +135,7 @@ color: chocolate;
 
 }
 #klm2{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js3.png");
+    background-image: url("../res/js3.png");
     height: 250px;
     width: 250px;
  
@@ -155,7 +155,7 @@ color: chocolate;
     border-color: white;
 }
 #imgjss3{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js4.png");
+    background-image: url("../res/js4.png");
     height: 250px;
     width: 250px;
 }
@@ -165,7 +165,7 @@ color: chocolate;
     color: white;
 }
 #imgjss4{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js5.png");
+    background-image: url("../res/js5.png");
     height: 250px;
     width: 250px;
 }
@@ -174,7 +174,7 @@ color: chocolate;
     display: none;
 }
 #klm3{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js6.png");   
+    background-image: url("../res/js6.png");   
     height: 250px;
     width: 250px;
 }
@@ -193,7 +193,7 @@ color: chocolate;
     border-color: white;
 }
 #imgjss5{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js7.png");
+    background-image: url("../res/js7.png");
     height: 250px;
     width: 250px;
 }
@@ -203,7 +203,7 @@ color: chocolate;
     color: white;
 }
 #imgjss6{
-    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js8.png");
+    background-image: url("../res/js8.png");
     height: 250px;
     width: 250px;
 }
