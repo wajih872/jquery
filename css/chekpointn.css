@@ -1,0 +1,248 @@
+body{
+    background: linear-gradient(to right, rgb(8, 8, 8), rgb(134, 9, 9));    
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.abc{
+    display: flex;
+    flex-direction:none;
+    justify-content: space-between;
+    align-items: center;
+    color: snow;
+    width: 100%;
+    text-align: center;
+    background: rgb(153, 29, 29);
+    padding: 1rem;
+}
+#img6{
+    width: 60px;
+}
+.abc a{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 80px;
+}
+.abc a:hover{
+    color: rgba(20, 22, 21, 0.897);
+}
+#wed{
+    background: url(../../gomycode/res/jj2.png) no-repeat center center/cover;
+    height: 100vh;
+}
+#tyu{
+    background: url(../../gomycode/res/jj1.jpeg) no-repeat center center/cover;
+    height: 100vh;
+}
+
+#ghj{
+    background: url(../../gomycode/res/sss2_files/987987.png) no-repeat center center/cover;
+    height: 100vh;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    border-block-end-color: seashell ;
+}
+#bg{
+    background: url(../res/pg.png) center center/cover;
+    height: 80vh;
+    z-index: 3;
+    width: 100%;
+    padding: 200px; 
+    font-size: 50px;
+}
+#bg2{
+    background: url(../res/pg.png) center center/cover;
+    height: 80vh;
+    z-index: 3;
+    width: 100%;
+    padding: 200px;
+    font-size: 50px;
+}
+#pg9{
+color: rgb(255, 253, 253);
+text-align: center;
+}
+button:hover{
+    border-color: rgb(136, 255, 0);
+color: chocolate;    
+    background-color: rgba(201, 33, 223, 0.925);
+}
+#j96{
+    background: rgb(129, 45, 11);
+    border-radius: 3em;
+    font-size: 20px;
+    width: 8%;
+    height: 8vh;
+}
+.ooo1{
+    width: 15%;
+    height: 5vh;
+    border-radius: 2em;
+}
+.y89{
+    width: 5%;
+    height: 5vh;
+    border-radius: 2em;
+}
+#txt{
+    border-radius: 1em;
+    font-size: 20px;   
+}
+#klm1{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js111.png");
+    height: 250px;
+    width: 250px;
+}
+.img20{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+#j1s111{
+    margin-top: 45%;
+    display: none;
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+#imgjss1{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js1.png");
+    height: 250px;
+    width: 250px;
+}
+#j1s11{
+    margin-top: 45%;
+    display: none;
+    color: white;
+}
+#imgjss2{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js2.png");
+    height: 250px;
+    width: 250px;
+}
+#j1s22{
+    margin-top: 45%;
+    display: none;
+
+}
+#klm2{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js3.png");
+    height: 250px;
+    width: 250px;
+ 
+}
+.img20{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+#j1s333{
+    margin-top: 45%;
+    display: none;
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+#imgjss3{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js4.png");
+    height: 250px;
+    width: 250px;
+}
+#j1s33{
+    margin-top: 45%;
+    display: none;
+    color: white;
+}
+#imgjss4{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js5.png");
+    height: 250px;
+    width: 250px;
+}
+#j1s44{
+    margin-top: 45%;
+    display: none;
+}
+#klm3{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js6.png");   
+    height: 250px;
+    width: 250px;
+}
+.img20{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+#j1s555{
+    margin-top: 45%;
+    display: none;
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+#imgjss5{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js7.png");
+    height: 250px;
+    width: 250px;
+}
+#j1s55{
+    margin-top: 45%;
+    display: none;
+    color: white;
+}
+#imgjss6{
+    background-image: url("C:/Users/wajih bhr/Desktop/html/checkpoint/res/js8.png");
+    height: 250px;
+    width: 250px;
+}
+#j1s66{
+    margin-top: 45%;
+    display: none;
+}
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4);
+  }
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; 
+    border-radius: 1em;
+   margin-right: 50px;
+   margin-left: 30vh ;
+  text-align: center;
+  }
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
